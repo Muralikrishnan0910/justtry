@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'testing session' target in the 'testing session' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
